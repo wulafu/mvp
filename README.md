@@ -27,3 +27,15 @@ MVP架构在Android的使用。Okhttp3、Retrofit2、Rxjava2 ，AutoDispose解�
     implementation 'com.afollestad.material-dialogs:core:0.9.6.0'  
     //jetbrains 注解  
     implementation 'org.jetbrains:annotations-java5:15.0'  
+    dddd
+    dd
+    d
+    d
+    d
+    dd
+    
+    ddd
+    
+    
+    d
+    dd
